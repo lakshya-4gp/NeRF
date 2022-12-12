@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/9ace31ff893540a8abf9790b3c275cc5/artifacts
+end_time: 1670441021462
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 9ace31ff893540a8abf9790b3c275cc5
+run_name: caring-kit-117
+run_uuid: 9ace31ff893540a8abf9790b3c275cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670430770034
+status: 3
+tags: []
+user_id: llnu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/0725973ae58e4a368a580089112055ef/artifacts
+end_time: 1670211924798
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 0725973ae58e4a368a580089112055ef
+run_name: whimsical-donkey-853
+run_uuid: 0725973ae58e4a368a580089112055ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670202517967
+status: 3
+tags: []
+user_id: llnu

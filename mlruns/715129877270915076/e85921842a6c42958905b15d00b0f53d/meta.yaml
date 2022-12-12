@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/e85921842a6c42958905b15d00b0f53d/artifacts
+end_time: 1670485497033
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: e85921842a6c42958905b15d00b0f53d
+run_name: wistful-lynx-797
+run_uuid: e85921842a6c42958905b15d00b0f53d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670485177725
+status: 3
+tags: []
+user_id: llnu

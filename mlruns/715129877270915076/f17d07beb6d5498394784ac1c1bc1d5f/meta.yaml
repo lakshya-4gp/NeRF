@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/f17d07beb6d5498394784ac1c1bc1d5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: f17d07beb6d5498394784ac1c1bc1d5f
+run_name: redolent-mule-403
+run_uuid: f17d07beb6d5498394784ac1c1bc1d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670486025372
+status: 1
+tags: []
+user_id: llnu

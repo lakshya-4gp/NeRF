@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/367f355228e54634abbaa4d155fe8715/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 367f355228e54634abbaa4d155fe8715
+run_name: luxuriant-ape-187
+run_uuid: 367f355228e54634abbaa4d155fe8715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670484199723
+status: 1
+tags: []
+user_id: llnu

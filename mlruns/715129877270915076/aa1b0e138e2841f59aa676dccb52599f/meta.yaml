@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/aa1b0e138e2841f59aa676dccb52599f/artifacts
+end_time: 1670271470874
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: aa1b0e138e2841f59aa676dccb52599f
+run_name: thoughtful-frog-724
+run_uuid: aa1b0e138e2841f59aa676dccb52599f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670271207713
+status: 3
+tags: []
+user_id: llnu

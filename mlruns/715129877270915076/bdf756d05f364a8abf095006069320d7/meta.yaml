@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/bdf756d05f364a8abf095006069320d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: bdf756d05f364a8abf095006069320d7
+run_name: trusting-mouse-137
+run_uuid: bdf756d05f364a8abf095006069320d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670202041894
+status: 1
+tags: []
+user_id: llnu

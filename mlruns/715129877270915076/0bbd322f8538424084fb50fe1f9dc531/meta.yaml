@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/0bbd322f8538424084fb50fe1f9dc531/artifacts
+end_time: 1670279204530
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 0bbd322f8538424084fb50fe1f9dc531
+run_name: learned-roo-60
+run_uuid: 0bbd322f8538424084fb50fe1f9dc531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670272046076
+status: 3
+tags: []
+user_id: llnu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/bfc958a8fff64557887b35723cf75328/artifacts
+end_time: 1670475228062
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: bfc958a8fff64557887b35723cf75328
+run_name: intrigued-goat-800
+run_uuid: bfc958a8fff64557887b35723cf75328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670474319970
+status: 3
+tags: []
+user_id: llnu

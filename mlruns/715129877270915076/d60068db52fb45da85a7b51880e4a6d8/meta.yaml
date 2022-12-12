@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/d60068db52fb45da85a7b51880e4a6d8/artifacts
+end_time: 1670444039346
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: d60068db52fb45da85a7b51880e4a6d8
+run_name: gentle-quail-666
+run_uuid: d60068db52fb45da85a7b51880e4a6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670443530132
+status: 3
+tags: []
+user_id: llnu

@@ -1,0 +1,1 @@
+Increasing image to 800 and heirarch samples to 128 caused it to not see those leaves, trying initilization even for fine network to see if that can help

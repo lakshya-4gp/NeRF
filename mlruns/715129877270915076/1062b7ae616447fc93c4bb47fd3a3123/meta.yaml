@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/1062b7ae616447fc93c4bb47fd3a3123/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 1062b7ae616447fc93c4bb47fd3a3123
+run_name: fun-rat-289
+run_uuid: 1062b7ae616447fc93c4bb47fd3a3123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670613615875
+status: 1
+tags: []
+user_id: llnu

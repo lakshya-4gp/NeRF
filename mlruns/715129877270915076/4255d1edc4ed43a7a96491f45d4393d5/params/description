@@ -1,0 +1,1 @@
+Reduced npts to 100 and to compensate that increase znear to 0.5 to be able to train 8 layer model, but rn running with 6 layer to see diff

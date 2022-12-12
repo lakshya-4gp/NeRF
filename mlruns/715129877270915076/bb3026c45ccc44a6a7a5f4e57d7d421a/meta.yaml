@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/bb3026c45ccc44a6a7a5f4e57d7d421a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: bb3026c45ccc44a6a7a5f4e57d7d421a
+run_name: enthused-dolphin-310
+run_uuid: bb3026c45ccc44a6a7a5f4e57d7d421a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670444047807
+status: 1
+tags: []
+user_id: llnu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/e34b90447a91461a9fb494537e99b372/artifacts
+end_time: 1670271099451
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: e34b90447a91461a9fb494537e99b372
+run_name: victorious-calf-409
+run_uuid: e34b90447a91461a9fb494537e99b372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670270950598
+status: 3
+tags: []
+user_id: llnu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/1f300109a2464b6d93ada627481597cb/artifacts
+end_time: 1670634394140
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 1f300109a2464b6d93ada627481597cb
+run_name: respected-shrimp-215
+run_uuid: 1f300109a2464b6d93ada627481597cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670624832046
+status: 3
+tags: []
+user_id: llnu

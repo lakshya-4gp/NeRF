@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/b2ce824ef3b244dfb45f18fcf4e8584f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: b2ce824ef3b244dfb45f18fcf4e8584f
+run_name: rare-calf-504
+run_uuid: b2ce824ef3b244dfb45f18fcf4e8584f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670222795591
+status: 1
+tags: []
+user_id: llnu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/ca516c27f08a45cdbbb33170be758b77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: ca516c27f08a45cdbbb33170be758b77
+run_name: gaudy-roo-597
+run_uuid: ca516c27f08a45cdbbb33170be758b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670146790873
+status: 1
+tags: []
+user_id: llnu

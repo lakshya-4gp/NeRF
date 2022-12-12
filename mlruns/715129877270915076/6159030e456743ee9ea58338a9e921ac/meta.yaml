@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/6159030e456743ee9ea58338a9e921ac/artifacts
+end_time: 1670482462424
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 6159030e456743ee9ea58338a9e921ac
+run_name: overjoyed-hare-226
+run_uuid: 6159030e456743ee9ea58338a9e921ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670475321963
+status: 3
+tags: []
+user_id: llnu

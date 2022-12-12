@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/49d2aded878b4fa3ae3a0a5efc669743/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 49d2aded878b4fa3ae3a0a5efc669743
+run_name: fortunate-ape-762
+run_uuid: 49d2aded878b4fa3ae3a0a5efc669743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670522567382
+status: 1
+tags: []
+user_id: llnu

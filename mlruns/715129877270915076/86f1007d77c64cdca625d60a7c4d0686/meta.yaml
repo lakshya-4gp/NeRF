@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/86f1007d77c64cdca625d60a7c4d0686/artifacts
+end_time: 1670132390927
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 86f1007d77c64cdca625d60a7c4d0686
+run_name: fearless-frog-887
+run_uuid: 86f1007d77c64cdca625d60a7c4d0686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670122492969
+status: 3
+tags: []
+user_id: llnu

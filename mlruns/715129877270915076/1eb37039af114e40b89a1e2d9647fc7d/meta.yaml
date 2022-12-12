@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/1eb37039af114e40b89a1e2d9647fc7d/artifacts
+end_time: 1670612809326
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 1eb37039af114e40b89a1e2d9647fc7d
+run_name: painted-eel-949
+run_uuid: 1eb37039af114e40b89a1e2d9647fc7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603374470
+status: 3
+tags: []
+user_id: llnu

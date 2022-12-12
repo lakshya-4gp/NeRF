@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/4255d1edc4ed43a7a96491f45d4393d5/artifacts
+end_time: 1670220460599
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 4255d1edc4ed43a7a96491f45d4393d5
+run_name: overjoyed-crane-913
+run_uuid: 4255d1edc4ed43a7a96491f45d4393d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670214225456
+status: 3
+tags: []
+user_id: llnu

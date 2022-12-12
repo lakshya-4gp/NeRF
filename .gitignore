@@ -1,0 +1,8 @@
+
+bottles/
+data/
+.ipynb_checkpoints/
+__pycache__/
+logs/
+models/
+pred/

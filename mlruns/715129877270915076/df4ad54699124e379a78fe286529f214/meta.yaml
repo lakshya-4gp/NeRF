@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/df4ad54699124e379a78fe286529f214/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: df4ad54699124e379a78fe286529f214
+run_name: resilient-loon-540
+run_uuid: df4ad54699124e379a78fe286529f214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670447202333
+status: 1
+tags: []
+user_id: llnu

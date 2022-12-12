@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/f05de24d8f3c4022b4f3f01bd63e5719/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: f05de24d8f3c4022b4f3f01bd63e5719
+run_name: rare-grouse-342
+run_uuid: f05de24d8f3c4022b4f3f01bd63e5719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670195493197
+status: 1
+tags: []
+user_id: llnu

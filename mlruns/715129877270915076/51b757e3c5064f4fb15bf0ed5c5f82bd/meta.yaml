@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/51b757e3c5064f4fb15bf0ed5c5f82bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 51b757e3c5064f4fb15bf0ed5c5f82bd
+run_name: enchanting-hare-225
+run_uuid: 51b757e3c5064f4fb15bf0ed5c5f82bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670484091507
+status: 1
+tags: []
+user_id: llnu

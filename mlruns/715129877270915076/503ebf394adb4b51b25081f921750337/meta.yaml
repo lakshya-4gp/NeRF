@@ -1,0 +1,15 @@
+artifact_uri: file:///home/llnu/private/Itachi/DL3D/mlruns/715129877270915076/503ebf394adb4b51b25081f921750337/artifacts
+end_time: 1670483298598
+entry_point_name: ''
+experiment_id: '715129877270915076'
+lifecycle_stage: active
+run_id: 503ebf394adb4b51b25081f921750337
+run_name: intrigued-mule-538
+run_uuid: 503ebf394adb4b51b25081f921750337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670483288264
+status: 3
+tags: []
+user_id: llnu
